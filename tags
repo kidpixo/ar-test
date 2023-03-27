@@ -28,6 +28,9 @@
 !_TAG_KIND_DESCRIPTION!Markdown	u,l5subsection	/level 5 sections/
 !_TAG_KIND_DESCRIPTION!Markdown	n,footnote	/footnotes/
 !_TAG_PARSER_VERSION!Markdown	0.0	/current.age/
+Test AR.js	README.md	/^# Test AR.js$/;"	c
+Links	README.md	/^## Links $/;"	s	chapter:Test AR.js
+Tests	README.md	/^## Tests$/;"	s	chapter:Test AR.js
 !_TAG_KIND_DESCRIPTION!HTML	a,anchor	/named anchors/
 !_TAG_KIND_DESCRIPTION!HTML	c,class	/classes/
 !_TAG_KIND_DESCRIPTION!HTML	t,title	/titles/
@@ -41,14 +44,3 @@
 !_TAG_ROLE_DESCRIPTION!HTML!stylesheet	extFile	/referenced as external files/
 !_TAG_ROLE_DESCRIPTION!HTML!script	extFile	/referenced as external files/
 !_TAG_PARSER_VERSION!HTML	0.0	/current.age/
-!_TAG_KIND_DESCRIPTION!Markdown	c,chapter	/chapters/
-!_TAG_KIND_DESCRIPTION!Markdown	s,section	/sections/
-!_TAG_KIND_DESCRIPTION!Markdown	S,subsection	/level 2 sections/
-!_TAG_KIND_DESCRIPTION!Markdown	t,subsubsection	/level 3 sections/
-!_TAG_KIND_DESCRIPTION!Markdown	T,l4subsection	/level 4 sections/
-!_TAG_KIND_DESCRIPTION!Markdown	u,l5subsection	/level 5 sections/
-!_TAG_KIND_DESCRIPTION!Markdown	n,footnote	/footnotes/
-!_TAG_PARSER_VERSION!Markdown	0.0	/current.age/
-Test AR.js	README.md	/^# Test AR.js$/;"	c
-Links	README.md	/^## Links $/;"	s	chapter:Test AR.js
-Tests	README.md	/^## Tests$/;"	s	chapter:Test AR.js

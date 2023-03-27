@@ -10,4 +10,4 @@ Testing [AR.js](https://ar-js-org.github.io) with github pages at [kidpixo.githu
 
 ## Tests
 
-- [Trex tracking](docs/tracking_trex.html) track this [image](https://raw.githubusercontent.com/AR-js-org/AR.js/master/aframe/examples/image-tracking/nft/trex-image-big.jpeg)
+- [Trex tracking](https://kidpixo.github.io/ar-test/tracking_trex.html) track this [image](https://raw.githubusercontent.com/AR-js-org/AR.js/master/aframe/examples/image-tracking/nft/trex-image-big.jpeg)
