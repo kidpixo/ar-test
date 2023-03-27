@@ -44,18 +44,10 @@ Links	README.md	/^## Links $/;"	s	chapter:Test AR.js
 !_TAG_ROLE_DESCRIPTION!HTML!stylesheet	extFile	/referenced as external files/
 !_TAG_ROLE_DESCRIPTION!HTML!script	extFile	/referenced as external files/
 !_TAG_PARSER_VERSION!HTML	0.0	/current.age/
+Test AR.js	docs/index.md	/^# Test AR.js$/;"	c
+Tests	docs/index.md	/^## Tests$/;"	s	chapter:Test AR.js
+Links	docs/index.md	/^## Links $/;"	s	chapter:Test AR.js
 AR.js A-Frame Location-based	docs/location.html	/^<title>AR.js A-Frame Location-based<\/title>$/;"	j
 my-image	docs/marker_pic.html	/^        <a-assets> <img id="my-image" src="images\/piazzacarmine_con_ciminiera.jpg"> <\/a-assets/;"	I
 AR.js A-Frame Location-based	docs/location_pic.html	/^<title>AR.js A-Frame Location-based<\/title>$/;"	j
 my-image	docs/location_pic.html	/^  <a-assets> <img id="my-image" src="images\/piazzacarmine_con_ciminiera.jpg"> <\/a-assets>$/;"	I
-!_TAG_KIND_DESCRIPTION!Markdown	c,chapter	/chapters/
-!_TAG_KIND_DESCRIPTION!Markdown	s,section	/sections/
-!_TAG_KIND_DESCRIPTION!Markdown	S,subsection	/level 2 sections/
-!_TAG_KIND_DESCRIPTION!Markdown	t,subsubsection	/level 3 sections/
-!_TAG_KIND_DESCRIPTION!Markdown	T,l4subsection	/level 4 sections/
-!_TAG_KIND_DESCRIPTION!Markdown	u,l5subsection	/level 5 sections/
-!_TAG_KIND_DESCRIPTION!Markdown	n,footnote	/footnotes/
-!_TAG_PARSER_VERSION!Markdown	0.0	/current.age/
-Test AR.js	docs/index.md	/^# Test AR.js$/;"	c
-Tests	docs/index.md	/^## Tests$/;"	s	chapter:Test AR.js
-Links	docs/index.md	/^## Links $/;"	s	chapter:Test AR.js
