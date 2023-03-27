@@ -4,8 +4,9 @@ Testing [AR.js](https://ar-js-org.github.io/AR.js-Docs/) with github pages at [k
 
 ## Tests
 
-- [Trex tracking](https://kidpixo.github.io/ar-test/tracking_trex.html) track this [image](https://raw.githubusercontent.com/AR-js-org/AR.js/master/aframe/examples/image-tracking/nft/trex-image-big.jpeg)
-- [Location](https://kidpixo.github.io/ar-test/location.html)
+- [Trex tracking](tracking_trex.html) track this [image](https://raw.githubusercontent.com/AR-js-org/AR.js/master/aframe/examples/image-tracking/nft/trex-image-big.jpeg)
+- [Location](location.html)
+- [Location with Pic](location_pic.html)
 
 ## Links 
 
