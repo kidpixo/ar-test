@@ -44,35 +44,18 @@ Links	README.md	/^## Links $/;"	s	chapter:Test AR.js
 !_TAG_ROLE_DESCRIPTION!HTML!stylesheet	extFile	/referenced as external files/
 !_TAG_ROLE_DESCRIPTION!HTML!script	extFile	/referenced as external files/
 !_TAG_PARSER_VERSION!HTML	0.0	/current.age/
+AR.js A-Frame Location-based	docs/location.html	/^<title>AR.js A-Frame Location-based<\/title>$/;"	j
+my-image	docs/marker_pic.html	/^        <a-assets> <img id="my-image" src="images\/piazzacarmine_con_ciminiera.jpg"> <\/a-assets/;"	I
+AR.js A-Frame Location-based	docs/location_pic.html	/^<title>AR.js A-Frame Location-based<\/title>$/;"	j
+my-image	docs/location_pic.html	/^  <a-assets> <img id="my-image" src="images\/piazzacarmine_con_ciminiera.jpg"> <\/a-assets>$/;"	I
+!_TAG_KIND_DESCRIPTION!Markdown	c,chapter	/chapters/
+!_TAG_KIND_DESCRIPTION!Markdown	s,section	/sections/
+!_TAG_KIND_DESCRIPTION!Markdown	S,subsection	/level 2 sections/
+!_TAG_KIND_DESCRIPTION!Markdown	t,subsubsection	/level 3 sections/
+!_TAG_KIND_DESCRIPTION!Markdown	T,l4subsection	/level 4 sections/
+!_TAG_KIND_DESCRIPTION!Markdown	u,l5subsection	/level 5 sections/
+!_TAG_KIND_DESCRIPTION!Markdown	n,footnote	/footnotes/
+!_TAG_PARSER_VERSION!Markdown	0.0	/current.age/
 Test AR.js	docs/index.md	/^# Test AR.js$/;"	c
 Tests	docs/index.md	/^## Tests$/;"	s	chapter:Test AR.js
 Links	docs/index.md	/^## Links $/;"	s	chapter:Test AR.js
-!_TAG_KIND_DESCRIPTION!HTML	a,anchor	/named anchors/
-!_TAG_KIND_DESCRIPTION!HTML	c,class	/classes/
-!_TAG_KIND_DESCRIPTION!HTML	t,title	/titles/
-!_TAG_KIND_DESCRIPTION!HTML	h,heading1	/H1 headings/
-!_TAG_KIND_DESCRIPTION!HTML	i,heading2	/H2 headings/
-!_TAG_KIND_DESCRIPTION!HTML	j,heading3	/H3 headings/
-!_TAG_KIND_DESCRIPTION!HTML	C,stylesheet	/stylesheets/
-!_TAG_KIND_DESCRIPTION!HTML	I,id	/identifiers/
-!_TAG_KIND_DESCRIPTION!HTML	J,script	/scripts/
-!_TAG_ROLE_DESCRIPTION!HTML!class	attribute	/assigned as attributes/
-!_TAG_ROLE_DESCRIPTION!HTML!stylesheet	extFile	/referenced as external files/
-!_TAG_ROLE_DESCRIPTION!HTML!script	extFile	/referenced as external files/
-!_TAG_PARSER_VERSION!HTML	0.0	/current.age/
-AR.js A-Frame Location-based	docs/location.html	/^<title>AR.js A-Frame Location-based<\/title>$/;"	j
-!_TAG_KIND_DESCRIPTION!HTML	a,anchor	/named anchors/
-!_TAG_KIND_DESCRIPTION!HTML	c,class	/classes/
-!_TAG_KIND_DESCRIPTION!HTML	t,title	/titles/
-!_TAG_KIND_DESCRIPTION!HTML	h,heading1	/H1 headings/
-!_TAG_KIND_DESCRIPTION!HTML	i,heading2	/H2 headings/
-!_TAG_KIND_DESCRIPTION!HTML	j,heading3	/H3 headings/
-!_TAG_KIND_DESCRIPTION!HTML	C,stylesheet	/stylesheets/
-!_TAG_KIND_DESCRIPTION!HTML	I,id	/identifiers/
-!_TAG_KIND_DESCRIPTION!HTML	J,script	/scripts/
-!_TAG_ROLE_DESCRIPTION!HTML!class	attribute	/assigned as attributes/
-!_TAG_ROLE_DESCRIPTION!HTML!stylesheet	extFile	/referenced as external files/
-!_TAG_ROLE_DESCRIPTION!HTML!script	extFile	/referenced as external files/
-!_TAG_PARSER_VERSION!HTML	0.0	/current.age/
-AR.js A-Frame Location-based	docs/location_pic.html	/^<title>AR.js A-Frame Location-based<\/title>$/;"	j
-my-image	docs/location_pic.html	/^    <img id="my-image" src="images\/piazzacarmine_con_ciminiera.jpg">$/;"	I
