@@ -11,5 +11,5 @@ Testing [AR.js](https://ar-js-org.github.io/AR.js-Docs/) with github pages at [k
 
 - [AR.js Documentation](https://ar-js-org.github.io/AR.js-Docs/)
 - [a-image – A-Frame](https://aframe.io/docs/1.0.0/primitives/a-image.html)
-- [AR.js - Augmented Reality on the Web | AR.js](https://ar-js-org.github.io/AR.js/)
+- [AR.js - quick examples](https://ar-js-org.github.io/AR.js/)
 
