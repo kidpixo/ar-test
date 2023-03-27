@@ -29,8 +29,8 @@
 !_TAG_KIND_DESCRIPTION!Markdown	n,footnote	/footnotes/
 !_TAG_PARSER_VERSION!Markdown	0.0	/current.age/
 Test AR.js	README.md	/^# Test AR.js$/;"	c
-Links	README.md	/^## Links $/;"	s	chapter:Test AR.js
 Tests	README.md	/^## Tests$/;"	s	chapter:Test AR.js
+Links	README.md	/^## Links $/;"	s	chapter:Test AR.js
 !_TAG_KIND_DESCRIPTION!HTML	a,anchor	/named anchors/
 !_TAG_KIND_DESCRIPTION!HTML	c,class	/classes/
 !_TAG_KIND_DESCRIPTION!HTML	t,title	/titles/
@@ -45,8 +45,8 @@ Tests	README.md	/^## Tests$/;"	s	chapter:Test AR.js
 !_TAG_ROLE_DESCRIPTION!HTML!script	extFile	/referenced as external files/
 !_TAG_PARSER_VERSION!HTML	0.0	/current.age/
 Test AR.js	docs/index.md	/^# Test AR.js$/;"	c
-Links	docs/index.md	/^## Links $/;"	s	chapter:Test AR.js
 Tests	docs/index.md	/^## Tests$/;"	s	chapter:Test AR.js
+Links	docs/index.md	/^## Links $/;"	s	chapter:Test AR.js
 AR.js A-Frame Location-based	docs/location.html	/^<title>AR.js A-Frame Location-based<\/title>$/;"	j
 AR.js A-Frame Location-based	docs/location_pic.html	/^<title>AR.js A-Frame Location-based<\/title>$/;"	j
 my-image	docs/location_pic.html	/^    <img id="my-image" src="images\/piazzacarmine_con_ciminiera.jpg">$/;"	I
