@@ -48,3 +48,5 @@ Test AR.js	docs/index.md	/^# Test AR.js$/;"	c
 Links	docs/index.md	/^## Links $/;"	s	chapter:Test AR.js
 Tests	docs/index.md	/^## Tests$/;"	s	chapter:Test AR.js
 AR.js A-Frame Location-based	docs/location.html	/^<title>AR.js A-Frame Location-based<\/title>$/;"	j
+AR.js A-Frame Location-based	docs/location_pic.html	/^<title>AR.js A-Frame Location-based<\/title>$/;"	j
+my-image	docs/location_pic.html	/^    <img id="my-image" src="images\/piazzacarmine_con_ciminiera.jpg">$/;"	I
