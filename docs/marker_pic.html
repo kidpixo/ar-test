@@ -1,15 +1,18 @@
 <!DOCTYPE html>
 <html>
-  <script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
-  <!-- we import arjs version without NFT but with marker + location based support -->
-  <script src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar.js"></script>
-  <body style="margin : 0px; overflow: hidden;">
-    <a-scene embedded arjs>
-        <a-assets> <img id="my-image" src="images/piazzacarmine_con_ciminiera.jpg"> </a-assets>
+    <script src="https://aframe.io/releases/1.0.0/aframe.min.js"></script>
+    <!-- we import arjs version without NFT but with marker + location based support -->
+    <script src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar.js"></script>
+    <body style="margin : 0px; overflow: hidden;">
+        <a-scene embedded arjs>
         <a-marker preset="hiro">
-            <a-image src="#my-image" width="1" height="0.645" gps-new-entity-place="latitude: 52.543910661311166; longitude: 13.421811195429134"></a-image>
+            <a-entity
+            position="0 0 0"
+            scale="0.05 0.05 0.05"
+            gltf-model="nft/trex/scene.gltf"
+            ></a-entity>
         </a-marker>
-        <a-camera gps-new-camera='gpsMinDistance: 5'></a-camera>
-    </a-scene>
-  </body>
+        <a-entity camera></a-entity>
+        </a-scene>
+    </body>
 </html>
