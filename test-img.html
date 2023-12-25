@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>GeoAR.js demo</title>
+    <script src="https://aframe.io/releases/1.3.0/aframe.min.js"></script>
+  </head>
+  <body>
+    <a-scene >
+      <a-entity raycaster="showLine: true; far: 100; lineColor: red; lineOpacity: 1.0"></a-entity>
+      <a-assets> <img id="my-image" src="images/piazzacarmine_con_ciminiera.jpg"> </a-assets>
+      <a-image src="#my-image" position='0 2 -2' scale='1 1 1'></a-image>
+      <a-camera> </a-camera>
+    </a-scene>
+  </body>
+</html>
+
