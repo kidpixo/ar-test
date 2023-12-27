@@ -1,6 +1,9 @@
 # Test AR.js
 
-Testing [AR.js](https://ar-js-org.github.io/AR.js-Docs/) with github pages at [kidpixo.github.io/ar-test](https://kidpixo.github.io/ar-test/)
+Testing AR.js with github pages:
+
+- site : [kidpixo.github.io/ar-test](https://kidpixo.github.io/ar-test/)
+- repo : [kidpixo/ar-test: testing AR.js](https://github.com/kidpixo/ar-test)
 
 ## Tests
 
