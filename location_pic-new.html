@@ -9,13 +9,13 @@
     <body>
         <a-scene vr-mode-ui='enabled: false' arjs='sourceType: webcam; videoTexture: true; debugUIEnabled: true' renderer='antialias: true; alpha: true'>
             <a-assets> <img id="my-image" src="images/piazzacarmine_con_ciminiera.jpg"> </a-assets>
-            <a-camera gps-camera='gpsMinDistance: 5' rotation-reader></a-camera>
+            <a-camera gps-new-camera='gpsMinDistance: 5' rotation-reader></a-camera>
             <a-image 
               src="#my-image" 
               width="2" 
               height="1.308" 
-              look-at="[gps-camera]"
-              gps-entity-place="latitude: 52.5439181; longitude: 13.4217447"
+              look-at="[gps-new-camera]"
+              gps-new-entity-place="latitude: 52.5439181; longitude: 13.4217447"
             ></a-image>
         </a-scene>
     </body>
